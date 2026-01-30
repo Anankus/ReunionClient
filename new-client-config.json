@@ -1,20 +1,42 @@
-[
-  {
-    "Realm": "TestRealm",
-    "Servers": [
-      {
-        "Name": "TestServer",
-        "Ip": "127.0.0.1"
-      }
-    ]
-  },
-  {
-    "Realm": "TestRealm2",
-    "Servers": [
-      {
-        "Name": "TestServer",
-        "Ip": "127.0.0.1"
-      }
-    ]
-  }
-]
+{
+  "realms": [
+    {
+      "name": "Halheim",
+      "servers": [
+        {
+          "name": "Halheim-1",
+          "ip": "83.168.71.98",
+          "port": 7072,
+          "httpPort": 8082
+        },
+         {
+          "name": "Halheim-2",
+          "ip": "83.168.71.98",
+          "port": 7072,
+          "httpPort": 8082
+        }
+      ]
+    },   
+     {
+      "name": "Midgar",
+      "servers": [
+        {
+          "name": "Midgar-1",
+          "ip": "83.168.71.98",
+          "port": 7072,
+          "httpPort": 8082
+        },
+        {
+          "name": "Midgar-2",
+          "ip": "83.168.71.98",
+          "port": 7072,
+          "httpPort": 8082
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
