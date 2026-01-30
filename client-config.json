@@ -6,32 +6,32 @@
         {
           "name": "Europe",
           "ip": "83.168.71.98",
-          "port": 8082,
-          "httpPort": 7072
+          "port": 7072,
+          "httpPort": 8082
         },
          {
           "name": "NorthAmerica",
           "ip": "103.101.203.181",
-          "port": 8082,
-          "httpPort": 7072
+          "port": 7072,
+          "httpPort": 8082
         }, 
         {
           "name": "SouthAmerica",
           "ip": "147.93.71.99",
-          "port": 8082,
-          "httpPort": 7072
+          "port": 7072,
+          "httpPort": 8082
         },
          {
           "name": "Asia",
           "ip": "194.233.92.135",
-          "port": 8082,
-          "httpPort": 7072
+          "port": 7072,
+          "httpPort": 8082
         },
          {
           "name": "Market",
           "ip": "83.168.90.8",
-          "port": 8082,
-          "httpPort": 7072
+          "port": 7072,
+          "httpPort": 8082
         }
       ]
     },
@@ -46,5 +46,6 @@
     }
   ]
 }
+
 
 
