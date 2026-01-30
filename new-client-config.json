@@ -1,0 +1,20 @@
+[
+  {
+    "Realm": "TestRealm",
+    "Servers": [
+      {
+        "Name": "TestServer",
+        "Ip": "127.0.0.1"
+      }
+    ]
+  },
+  {
+    "Realm": "TestRealm2",
+    "Servers": [
+      {
+        "Name": "TestServer",
+        "Ip": "127.0.0.1"
+      }
+    ]
+  }
+]
