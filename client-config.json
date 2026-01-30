@@ -1,20 +1,22 @@
-[
-  {
-    "Realm": "TestRealm",
-    "Servers": [
-      {
-        "Name": "TestServer",
-        "Ip": "127.0.0.1"
-      }
-    ]
-  },
-  {
-    "Realm": "TestRealm2",
-    "Servers": [
-      {
-        "Name": "TestServer",
-        "Ip": "127.0.0.1"
-      }
-    ]
-  }
-]
+{
+  "realms": [
+    {
+      "name": "testRealm1",
+      "servers": [
+        {
+          "name": "test",
+          "ip": "127.0.0.1"
+        }
+      ]
+    },
+    {
+      "name": "testRealm2",
+      "servers": [
+        {
+          "name": "test",
+          "ip": "127.0.0.1"
+        }
+      ]
+    }
+  ]
+}
