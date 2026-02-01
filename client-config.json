@@ -5,9 +5,9 @@
       "servers": [
         {
           "name": "Europe1",
-          "ip": "83.168.71.97",
+          "ip": "83.168.71.98",
           "port": 7072,
-          "httpPort": 8082
+          "httpPort": 8081
         },
          {
           "name": "NorthAmerica",
@@ -37,6 +37,7 @@
     }
   ]
 }
+
 
 
 
