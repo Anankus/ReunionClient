@@ -7,7 +7,7 @@
           "name": "Europe1",
           "ip": "83.168.71.98",
           "port": 7072,
-          "httpPort": 8081
+          "httpPort": 8082
         },
          {
           "name": "NorthAmerica",
@@ -37,6 +37,7 @@
     }
   ]
 }
+
 
 
 
