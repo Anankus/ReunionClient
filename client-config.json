@@ -4,8 +4,8 @@
       "name": "prod1",
       "servers": [
         {
-          "name": "Europe",
-          "ip": "83.168.71.98",
+          "name": "Europe1",
+          "ip": "83.168.71.97",
           "port": 7072,
           "httpPort": 8082
         },
@@ -37,6 +37,7 @@
     }
   ]
 }
+
 
 
 
