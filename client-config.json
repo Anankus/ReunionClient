@@ -1,7 +1,7 @@
 {
   "realms": [
     {
-      "name": "testRealm1",
+      "name": "prod1",
       "servers": [
         {
           "name": "Europe",
@@ -34,18 +34,10 @@
           "httpPort": 8082
         }
       ]
-    },
-    {
-      "name": "testRealm2",
-      "servers": [
-        {
-          "name": "test",
-          "ip": "127.0.0.1"
-        }
-      ]
     }
   ]
 }
+
 
 
 
