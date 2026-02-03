@@ -16,12 +16,6 @@
           "httpPort": 8082
         }, 
         {
-          "name": "SouthAmerica",
-          "ip": "147.93.71.99",
-          "port": 7072,
-          "httpPort": 8082
-        },
-         {
           "name": "Market",
           "ip": "83.168.90.8",
           "port": 7072,
@@ -31,6 +25,7 @@
     }
   ]
 }
+
 
 
 
