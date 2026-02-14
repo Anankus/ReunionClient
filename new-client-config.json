@@ -12,7 +12,7 @@
       ]
     },   
      {
-      "name": "Midgar (NEW)",
+      "name": "Midgar (START AT 18:00 UTC)",
       "servers": [
         {
           "name": "Midgar-1",
@@ -24,6 +24,7 @@
     }
   ]
 }
+
 
 
 
