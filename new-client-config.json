@@ -5,7 +5,7 @@
       "servers": [
         {
           "name": "Halheim-1",
-          "ip": "217.216.88.30",
+          "ip": "187.77.31.54",
           "port": 7072,
           "httpPort": 8082
         }
@@ -16,7 +16,7 @@
       "servers": [
         {
           "name": "Midgar-1",
-          "ip": "187.77.31.54",
+          "ip": "localhost",
           "port": 7072,
           "httpPort": 8082
         }
@@ -24,6 +24,7 @@
     }
   ]
 }
+
 
 
 
