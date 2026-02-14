@@ -16,7 +16,7 @@
       "servers": [
         {
           "name": "Midgar-1",
-          "ip": "83.168.71.98",
+          "ip": "localhost",
           "port": 7072,
           "httpPort": 8082
         },
@@ -24,6 +24,7 @@
     }
   ]
 }
+
 
 
 
