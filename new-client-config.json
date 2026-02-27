@@ -21,9 +21,21 @@
           "httpPort": 8082
         }
       ]
+    },
+      {
+      "name": "PTR (test)",
+      "servers": [
+        {
+          "name": "Test-1",
+          "ip": "212.127.78.226",
+          "port": 7072,
+          "httpPort": 8082
+        }
+      ]
     }
   ]
 }
+
 
 
 
