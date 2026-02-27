@@ -23,7 +23,7 @@
       ]
     },
       {
-      "name": "PTR (test)",
+      "name": "PTR (1.5.0)",
       "servers": [
         {
           "name": "Test-1",
@@ -35,6 +35,7 @@
     }
   ]
 }
+
 
 
 
