@@ -5,7 +5,7 @@
       "servers": [
         {
           "name": "Halheim-1",
-          "ip": "187.77.31.54",
+          "ip": "localhost",
           "port": 7072,
           "httpPort": 8082
         }
