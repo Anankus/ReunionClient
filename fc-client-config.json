@@ -1,0 +1,56 @@
+{
+  "realms": [
+    {
+      "name": "Halheim (OLD)",
+      "servers": [
+        {
+          "name": "Halheim-1",
+          "ip": "localhost",
+          "port": 7072,
+          "httpPort": 8082
+        }
+      ]
+    },   
+     {
+      "name": "Midgar (NEW)",
+      "servers": [
+        {
+          "name": "Midgar-1",
+          "ip": "187.77.31.188",
+          "port": 7072,
+          "httpPort": 8082
+        }
+      ]
+    },
+      {
+      "name": "PTR (1.5.0)",
+      "servers": [
+        {
+          "name": "Test-1",
+          "ip": "212.127.78.226",
+          "port": 7072,
+          "httpPort": 8082
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
