@@ -4,7 +4,7 @@
       "name": "Helheim (x1)",
       "servers": [
         {
-          "name": "Vanaheim-1",
+          "name": "Helheim-1",
           "ip": "localhost",
           "port": 7072,
           "httpPort": 8082
