@@ -1,10 +1,10 @@
 {
   "realms": [
     {
-      "name": "Halheim (OLD)",
+      "name": "Vanaheim (x1)",
       "servers": [
         {
-          "name": "Halheim-1",
+          "name": "Vanaheim-1",
           "ip": "localhost",
           "port": 7072,
           "httpPort": 8082
@@ -12,10 +12,10 @@
       ]
     },   
      {
-      "name": "Midgar (NEW)",
+      "name": "Midgard (x100)",
       "servers": [
         {
-          "name": "Midgar-1",
+          "name": "Midgard-1",
           "ip": "187.77.31.188",
           "port": 7072,
           "httpPort": 8082
@@ -23,10 +23,10 @@
       ]
     },
       {
-      "name": "PTR (1.5.0)",
+      "name": "Asgard (x1000)",
       "servers": [
         {
-          "name": "Test-1",
+          "name": "Asgard-1",
           "ip": "212.127.78.226",
           "port": 7072,
           "httpPort": 8082
