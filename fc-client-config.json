@@ -1,7 +1,8 @@
 {
   "realms": [
     {
-      "name": "Helheim (x1)",
+      "name": "Helheim",
+      "xprate": "1",
       "servers": [
         {
           "name": "Helheim-1",
