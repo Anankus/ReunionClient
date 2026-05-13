@@ -13,7 +13,8 @@
       ]
     },   
      {
-      "name": "Midgard (x100)",
+      "name": "Midgard",
+        "xprate": "100",
       "servers": [
         {
           "name": "Midgard-1",
@@ -24,7 +25,8 @@
       ]
     },
       {
-      "name": "Asgard (x1000)",
+      "name": "Asgard",
+      "xprate": "1000",
       "servers": [
         {
           "name": "Asgard-1",
