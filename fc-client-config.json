@@ -5,7 +5,7 @@
       "xprate": "1",
       "servers": [
         {
-          "name": "Starts on 06.06.2026",
+          "name": "Starts on 1 Junge 2026 at 10:00 AM UTC",
           "ip": "localhost",
           "port": 7072,
           "httpPort": 8082
@@ -17,7 +17,7 @@
         "xprate": "100",
       "servers": [
         {
-          "name": "Starts on 06.06.2026",
+              "name": "Starts on 1 Junge 2026 at 10:00 AM UTC",
           "ip": "localhost",
           "port": 7072,
           "httpPort": 8082
@@ -29,7 +29,7 @@
       "xprate": "1000",
       "servers": [
         {
-          "name": "Starts on 06.06.2026",
+         "name": "Starts on 1 Junge 2026 at 10:00 AM UTC",
           "ip": "localhost",
           "port": 7072,
           "httpPort": 8082
