@@ -5,7 +5,7 @@
       "xprate": "1",
       "servers": [
         {
-          "name": "Helheim-1",
+          "name": "Starts on 06.06.2026",
           "ip": "localhost",
           "port": 7072,
           "httpPort": 8082
@@ -17,8 +17,8 @@
         "xprate": "100",
       "servers": [
         {
-          "name": "Midgard-1",
-          "ip": "187.77.31.188",
+          "name": "Starts on 06.06.2026",
+          "ip": "localhost",
           "port": 7072,
           "httpPort": 8082
         }
@@ -29,8 +29,8 @@
       "xprate": "1000",
       "servers": [
         {
-          "name": "Asgard-1",
-          "ip": "212.127.78.226",
+          "name": "Starts on 06.06.2026",
+          "ip": "localhost",
           "port": 7072,
           "httpPort": 8082
         }
