@@ -11,43 +11,7 @@
           "httpPort": 8082
         }
       ]
-    },   
-    {
-      "name": "Helheim",
-      "xprate": "1",
-      "servers": [
-        {
-          "name": "Starts on 1 June 2026 at 10:00 AM UTC",
-          "ip": "localhost",
-          "port": 7072,
-          "httpPort": 8082
-        }
-      ]
-    },   
-     {
-      "name": "Midgard",
-        "xprate": "100",
-      "servers": [
-        {
-              "name": "Starts on 1 June 2026 at 10:00 AM UTC",
-          "ip": "localhost",
-          "port": 7072,
-          "httpPort": 8082
-        }
-      ]
-    },
-      {
-      "name": "Asgard",
-      "xprate": "1000",
-      "servers": [
-        {
-         "name": "Starts on 1 June 2026 at 10:00 AM UTC",
-          "ip": "localhost",
-          "port": 7072,
-          "httpPort": 8082
-        }
-      ]
-    }
+    }    
   ]
 }
 
