@@ -29,7 +29,7 @@
         "xprate": "100",
       "servers": [
         {
-              "name": "Starts on 1 June 2026 at 12:00 UTC",
+              "name": "Midgard-1",
           "ip": "212.127.90.169",
           "port": 7072,
           "httpPort": 8082
