@@ -1,17 +1,5 @@
 {
-  "realms": [
-     {
-      "name": "Test",
-      "xprate": "9999",
-      "servers": [
-        {
-          "name": "Test-1",
-          "ip": "212.127.90.123",
-          "port": 7072,
-          "httpPort": 8082
-        }
-      ]
-    },   
+  "realms": [  
     {
       "name": "Helheim",
       "xprate": "1",
