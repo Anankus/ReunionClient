@@ -42,7 +42,7 @@
       "servers": [
         {
          "name": "Starts on 1 June 2026 at 14:00 UTC",
-          "ip": "localhost",
+          "ip": "212.127.78.11",
           "port": 7072,
           "httpPort": 8082
         }
