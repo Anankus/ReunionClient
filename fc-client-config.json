@@ -17,8 +17,8 @@
       "xprate": "1",
       "servers": [
         {
-          "name": "Starts on 1 June 2026 at 10:00 UTC",
-          "ip": "localhost",
+          "name": "Helheim-1",
+          "ip": "212.127.90.167",
           "port": 7072,
           "httpPort": 8082
         }
